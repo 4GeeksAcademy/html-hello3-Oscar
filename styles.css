@@ -3,18 +3,18 @@
 display: flex;
 
 
-
 }
 .navbar{
     text-align: center;
  
 }
 .container{ 
-    display: flex;
- justify-content:center;
- padding: 20px;
+    
+ justify-content:space-between;
  margin: 10px;
 }
 .container-fluid{
     margin: 0;
+    border: 30px;
+justify-content: center;
 }
